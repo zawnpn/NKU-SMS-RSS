@@ -2,7 +2,7 @@
 RSS support for School of Mathematical Sciences, Nankai University
 
 ## 说明
-每十分钟抓取一次[南开数院](http://sms.nankai.edu.cn)的文章标题、日期及链接，生成xml文件便于订阅rss，同时推送邮件。
+可定时抓取[南开数院](http://sms.nankai.edu.cn)的文章标题、日期及链接，生成xml文件便于订阅rss，同时推送邮件。
 
 ## RSS订阅
  - 学院新闻：[http://www.oncemath.com/sms-rss/xyxw.xml](http://www.oncemath.com/sms-rss/xyxw.xml)
