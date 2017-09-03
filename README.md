@@ -23,6 +23,8 @@ RSS support for School of Mathematical Sciences, Nankai University
 ## 注意
  - 使用crontab时，务必确保代码内的路径都是恰当的**绝对路径**，否则可能会报错
  - 在服务器上运行时，注意不要泄露`config/config.py`中的密码等相关信息
+ - 注意不要关闭服务器的邮件端口，如22、465等
+ - 发送邮件时若要使用SSL，请将`./function/mail.py`的`send`函数中`server = smtplib.SMTP(smtp_server, port)`修改为`server = smtplib.SMTP_SSL(smtp_server, port)`，并注意使用正确的SSL端口号
  
 ## 其他
 感谢[@yqnku](http://www.quicy.cn)
