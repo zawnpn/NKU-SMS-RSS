@@ -11,6 +11,10 @@ RSS support for School of Mathematical Sciences, Nankai University
  - 科研动态：[http://www.oncemath.com/sms-rss/kydt.xml](http://www.oncemath.com/sms-rss/kydt.xml)
  - 学生工作：[http://www.oncemath.com/sms-rss/xsgz.xml](http://www.oncemath.com/sms-rss/xsgz.xml)
  - 公共数学：[http://www.oncemath.com/sms-rss/ggsx.xml](http://www.oncemath.com/sms-rss/ggsx.xml)
+ 
+同时在“即刻”APP中已根据上面的RSS订阅地址创建了“南开数院新闻订阅”主题，扫描下面的二维码即可随时关注
+
+![subscribe](Jike_QR.jpg)
 
 ## 邮件订阅
 如有需要，可以发送相关信息至zwp@oncemath.com，或者在[这个页面](http://www.oncemath.com/nku-sms-rss.html)下面的评论区进行相关说明
