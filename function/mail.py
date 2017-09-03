@@ -21,7 +21,6 @@ def _format_addr(s):
 # 登录邮件
 def login():
     server = smtplib.SMTP(smtp_server, port)
-    server.starttls()
     server.set_debuglevel(1)
     server.login(From, pwd)
     return server
